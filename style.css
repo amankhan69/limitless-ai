@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+  color: cyan;
+  font-family: 'Courier New', monospace;
+  text-align: center;
+  padding: 40px;
+}
+button {
+  background: magenta;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  font-size: 18px;
+  margin-top: 20px;
+  border-radius: 12px;
+}
+#response {
+  margin-top: 40px;
+  font-size: 20px;
+  color: #fff;
+}
